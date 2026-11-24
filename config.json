@@ -1,0 +1,22 @@
+{
+  "serverName": "Agares RolePlay",
+  "serverIp": "94.23.168.153:3120",
+  "links": {
+    "forum": "https://agares-rp.netlify.app/#forum",
+    "discord": "https://discord.gg/agaresrp",
+    "youtube": "https://youtube.com/@agaresrp",
+    "facebook": "https://facebook.com/agaresrp",
+    "rules": "https://agares-rp.netlify.app/#rules"
+  },
+  "news": [
+    {
+      "id": "opening",
+      "badge": "BAYSIDE",
+      "title": "სერვერის გახსნა",
+      "subtitle": "Agares RolePlay — მალე ერთად!",
+      "image": "./assets/news-bayside.jpg",
+      "date": "2026"
+    }
+  ],
+  "launcherDownloadUrl": "https://github.com/drpixel711-create/agares-rp-files/releases/download/launcher/Agares-RolePlay-Launcher-Setup.exe"
+}
