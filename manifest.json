@@ -1,0 +1,115 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-11-24T23:38:27.224Z",
+  "archives": [
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/SAMP.zip",
+      "name": "SAMP.zip",
+      "size": 20173332,
+      "sha256": "2120e550e8680efa99c8548109b65165038535be4d0d91c8109ce55b87523f32"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/anim.zip",
+      "name": "anim.zip",
+      "size": 209907752,
+      "sha256": "3cd9ade0e7bae89b3398cb6a767450d0702afbc30524a63d28071f62792222ae"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/audio.zip",
+      "name": "audio.zip",
+      "size": 74274817,
+      "sha256": "1baf27d393179a0d7f9ed4405c21c085f3386d8ec543b13e938d0c7fa925a671"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/cef.zip",
+      "name": "cef.zip",
+      "size": 89903846,
+      "sha256": "47323e28bccdbff8505740775fd1384860abd40c9029cfeb569e33bf04d8ccdf"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/crpf.zip",
+      "name": "crpf.zip",
+      "size": 1163646449,
+      "sha256": "fcde85b7f5baf2a07fa75cc0843684fc2987e49c6bfda7d3b2dc9501e05eedbf"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/data.zip",
+      "name": "data.zip",
+      "size": 5669198,
+      "sha256": "f52a68877026ecc79ffceb750c800b6b60613cc373f950a4e2b8c0ff0feb7439"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/enbseries.zip",
+      "name": "enbseries.zip",
+      "size": 6347568,
+      "sha256": "21ba23789bc49810beda7bd5c0b9d83b967dd6af55a5f5c86b933e7c08362b4c"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/genuine.zip",
+      "name": "genuine.zip",
+      "size": 214486338,
+      "sha256": "2e42c85417920dc7767e21d077a86f4feb6f780868b63d05cb6498c0d1694474"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/models_1.zip",
+      "name": "models_1.zip",
+      "size": 599403542,
+      "sha256": "f6fe3a968458224883e3401e8813ed528fbfaa6dbf22bd664ed02754207bbaa4"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/models_2.zip",
+      "name": "models_2.zip",
+      "size": 565292234,
+      "sha256": "4076e3a2c6c6390dc9e5e3bb073f7cd4f767f4c596d8e7edd845f20a11a745eb"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/models_3.zip",
+      "name": "models_3.zip",
+      "size": 475902223,
+      "sha256": "081c671c3813e0c5811e7022917c98291acbd8687142ef3647c67822ec40a7ae"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/models_4.zip",
+      "name": "models_4.zip",
+      "size": 407245280,
+      "sha256": "ef59f4c7d0afaf6c7b0d58e84c7f96265c6edc7064d4ce91ce6d302c6f28470c"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/models_5.zip",
+      "name": "models_5.zip",
+      "size": 158211172,
+      "sha256": "2d2cc38eab5dca9f522f4937dd67a136dd1ff169d4362de980417db7957f6367"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/modloader.zip",
+      "name": "modloader.zip",
+      "size": 13625964,
+      "sha256": "69df83652cc9af8fbea885f31dd315449ee05b7ce380c3d70d3c102c90481dc2"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/movies.zip",
+      "name": "movies.zip",
+      "size": 49072,
+      "sha256": "35e413e8c7e464a7426ce0cc8b7795f2143a260479901dac70596fc0e2655ff5"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/realskybox.zip",
+      "name": "realskybox.zip",
+      "size": 8738855,
+      "sha256": "9e0a2acf396dc57cc1bcceb57f0d45dc1b49b434922bbcb2e9244825d7a2b6cd"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/root_core.zip",
+      "name": "root_core.zip",
+      "size": 21215890,
+      "sha256": "0f8408925343a4665df38857fb60e3adb19bb8a663c931c9528f248ce0ee98c2"
+    },
+    {
+      "file": "https://github.com/drpixel711-create/agares-rp-files/releases/download/gta-base/text.zip",
+      "name": "text.zip",
+      "size": 2008608,
+      "sha256": "7cf050c779f0a843782fc919d7570775b3ea3bdbb1cecfa06770eba8c978cffe"
+    }
+  ],
+  "updates": []
+}
