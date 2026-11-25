@@ -1,6 +1,9 @@
 {
   "serverName": "Agares RolePlay",
   "serverIp": "94.23.168.153:3120",
+  "cdnBaseUrl": "",
+  "launcherDownloadUrl": "https://github.com/drpixel711-create/agares-rp-files/releases/download/launcher/Agares-RolePlay-Launcher-Setup.exe",
+  "serverCounterUrl": "",
   "links": {
     "forum": "https://agares-rp.netlify.app/#forum",
     "discord": "https://discord.gg/agaresrp",
@@ -18,5 +21,5 @@
       "date": "2026"
     }
   ],
-  "launcherDownloadUrl": "https://github.com/drpixel711-create/agares-rp-files/releases/download/launcher/Agares-RolePlay-Launcher-Setup.exe"
+  "updatedAt": "2026-11-25T00:44:55.314Z"
 }
